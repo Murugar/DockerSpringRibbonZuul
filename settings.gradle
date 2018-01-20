@@ -1,0 +1,5 @@
+rootProject.name = 'DockerSpringRibbonZuul'
+include "eureka-server"
+include "helloworld-service"
+include "zuul"
+include "ribbon"
